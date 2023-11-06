@@ -1,43 +1,43 @@
 {
-  "owner": "John Smith",
-  "siteName": "John Smith's Portfolio",
-  "siteDescription": "John Smith's Portfolio for potential employers",
-  "about": "I'm a web developer from Anytown, USA. I like to build things with HTML, CSS, and JavaScript.",
+  "owner": "Rume Health",
+  "siteName": "Rume Health's Shop",
+  "siteDescription": "",
+  "about": "Rume Health is a health and wellness company that offers a wide range of products and services to help you stay healthy and happy. Their ecommerce site provides a convenient way to purchase at-home COVID-19 tests, weight loss plans, and more. With Rume Health, you can get the care you need, when you need it, from trusted and certified professionals. Their services include diagnostic testing, virtual convenient care, virtual women's health clinic, and virtual COVID-19 care. Rume Health is committed to providing accessible, affordable healthcare to everyone.",
   "contact": {
-    "email": "bob@aol.com",
-    "phone": "555-555-5555",
-    "address": "1234 Main St. Anytown, USA 12345"
+    "email": "info@rumehealth.com",
+    "phone": "+1 888-223-RUME (7863)",
+    "address": "18800 Delaware St. STE 204, Huntington Beach CA, 92648"
   },
   "pages": [
     {
-      "title": "Home",
-      "href": "/"
+      "title": "How it works",
+      "href": "/how-it-works"
     },
     {
-      "title": "Projects",
-      "href": "/projects"
+      "title": "Our Services",
+      "href": "/services"
     },
     {
-      "title": "Contact",
-      "href": "/contact"
+      "title": "About Us",
+      "href": "/about-us"
+    },
+    {
+      "title": "Blog",
+      "href": "blog"
+    },
+    {
+      "title": "Contact us",
+      "href": "/contact-us"
     }
   ],
   "social": [
     {
-      "title": "GitHub",
-      "href": "https://github.com/leabs"
-    },
-    {
-      "title": "YouTube",
-      "href": "https://www.youtube.com/@shadowstack"
+      "title": "Facebook",
+      "href": "https://facebook.com/"
     },
     {
       "title": "LinkedIn",
-      "href": "https://www.linkedin.com/in/stevenleabo/"
-    },
-    {
-      "title": "CodePen",
-      "href": "https://codepen.io/shadowstack/pens/popular"
+      "href": "https://www.linkedin.com/"
     }
   ],
   "projects": [

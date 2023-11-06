@@ -9,13 +9,13 @@ module.exports = {
   ],
   theme: {
     colors: {
-      primary: "#17202A",
-      secondary: "#ecc94b",
+      primary: "#3370E6",
+      secondary: "#172F54",
       transparent: "transparent",
       current: "currentColor",
       slate: colors.slate,
       stone: colors.stone,
-      blue: colors.blue,
+      sky: "#E2EBF7",
       green: colors.green,
       black: colors.black,
       white: colors.white,
